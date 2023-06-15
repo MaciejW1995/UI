@@ -81,7 +81,7 @@
       -ms-flex-pack: justify;
           justify-content: space-between;
   min-height: 65vh;
-  background: url("/assets/website_ui2.png");
+  background: url("assets/website_ui2.png");
   background-position: center;
   background-size: cover;
 }
@@ -159,7 +159,7 @@
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   min-height: 30vh;
-  background: url("/assets/milky.png");
+  background: url("assets/milky.png");
   background-position: center;
   background-size: cover;
   color: white;
